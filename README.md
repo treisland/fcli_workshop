@@ -22,7 +22,7 @@ A streamlined collection of PowerShell scripts to manage the **Fortify CLI (fcli
 1. **Open PowerShell**: Press the **Windows Key**, type `PowerShell`, and click on **Windows PowerShell**.
 2. **Navigate to your folder**: Type `cd`, followed by the path where you saved these files.
 ```powershell
-cd "$HOME\Desktop\fcli_course"
+cd "$HOME\Desktop\fcli_workshop"
 
 ```
 
