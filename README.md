@@ -86,5 +86,3 @@ Once the setup is complete, these variables are stored in your **User Environmen
 ## 🧹 Cleanup
 
 To remove all tools and files, run the uninstall scripts. They will delete the `$HOME\fortify` folder and clean up your `PATH` without requiring Administrator rights.
-
-**Would you like me to generate a single "Check-Health" script that verifies all these files are present and correctly configured?**
