@@ -1,0 +1,1 @@
+fcli fod action run check-policy --release ::release::
