@@ -5,7 +5,7 @@
 $thirdPartyDir = "$HOME\fortify\thirdparty"
 $javaDir       = Join-Path $thirdPartyDir "openjdk-21"
 $mavenDir      = Join-Path $thirdPartyDir "maven"
-
+$ProgressPreference = 'SilentlyContinue'
 # Updated Maven link to a more resilient URL
 $javaUrl  = "https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip"
 $mavenUrl = "https://archive.apache.org/dist/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.zip"

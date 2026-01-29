@@ -7,6 +7,7 @@ $fortifyToolsDir = "$HOME\fortify\tools\bin\"
 $fcliZipFile     = "$env:TEMP\fcli-windows.zip"
 $fcliDownloadUrl = "https://github.com/fortify/fcli/releases/latest/download/fcli-windows.zip"
 $fcliExe         = Join-Path $fortifyToolsDir "fcli.exe"
+$ProgressPreference = 'SilentlyContinue'
 
 Clear-Host
 Write-Host "--- Fortify CLI (fcli) Setup & Validation ---" -ForegroundColor Cyan

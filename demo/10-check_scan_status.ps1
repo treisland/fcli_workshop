@@ -1,0 +1,1 @@
+fcli fod sast get ::scan::scanId -o table=scanId,releaseName,applicationName,analysisStatusType,issueCountCritical,issueCountHigh,issueCountMedium,issueCountLow
