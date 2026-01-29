@@ -1,0 +1,1 @@
+fcli fod action run release-summary --release ::release::
